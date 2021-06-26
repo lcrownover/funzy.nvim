@@ -1,0 +1,1 @@
+# funzy.nvim
